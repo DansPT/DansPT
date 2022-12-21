@@ -16,7 +16,7 @@
 - 👋 Hi, I’m Daniel Fernandes
 - 📍 Currently living in <b> Porto, Portugal </b>
 - 🎓 Studied at < Academia de Código /> an intensive FullStack bootcamp
-- ☕ My main hobbies & passions are: Boardgames 🎲 Surf :surfer: Travel :airplane:  Animals :dog: && Hang out and meet new people 🕺🏻
+- ☕ My main hobbies & passions are: Boardgames 🎲 Surf :surfer: Travel :airplane:  Animals :dog: && Socialize 🕺🏻
 - 📫 All of my projects will be available at <b>coming soon<b>
   
   <br>
